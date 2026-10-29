@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Code+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Lapce Free Installer** — Lapce is a free, open-source, GPU-accelerated code editor written in Rust for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Lapce Free Installer** — Lapce is a fast, open-source code editor written in Rust, designed for performance and modern developer workflows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Lapce
 
-Lapce is a free, open-source, GPU-accelerated code editor written in Rust for Windows, macOS, and Linux. Designed for extreme performance, it features Vi/modal editing, LSP integration, remote development, and a plugin system — aiming to be faster than VS Code.
+Lapce is a fast, open-source code editor written in Rust, designed for performance and modern developer workflows. Features GPU-accelerated rendering, a built-in terminal, native LSP support for any programming language, remote development over SSH, and a Vim-inspired modal editing mode. Lapce aims to deliver VS Code-level features with significantly faster performance.
 
 ---
 
 ## ❌ Problem: Lapce is hard to access
 
-- **Early Development** — Still in beta; some features and stability not at production level
-- **Limited Plugin Ecosystem** — Plugin library significantly smaller than VS Code
-- **Modal Editing Required** — Vi-inspired modal editing has a learning curve
-- **Incomplete Features** — Some planned features still under development
+- **Early Development** — Project still in beta; some features incomplete or unstable
+- **Plugin Ecosystem** — Much smaller than VS Code extension marketplace
+- **Documentation** — Some advanced features lack comprehensive documentation
+- **Compatibility** — Some edge cases in language server behavior still being resolved
 
 ---
 
@@ -121,7 +121,7 @@ Lapce is a free, open-source, GPU-accelerated code editor written in Rust for Wi
 
 ---
 
-**Lapce Free Installer** — Lapce is a free, open-source, GPU-accelerated code editor written in Rust for Windows, macOS, and Linux. Install without internet connection today!
+**Lapce Free Installer** — Lapce is a fast, open-source code editor written in Rust, designed for performance and modern developer workflows. Install without internet connection today!
 
 <div align="center">
 
